@@ -1,2 +1,2 @@
 web:index.js
-node:bot.js
+node:pollux.js
