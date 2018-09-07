@@ -1,0 +1,19 @@
+{
+  "name": "Supernova",
+  "description": "",
+  "scripts": {
+  },
+  "env": {
+    "TOKEN": {
+      "generator": "secret"
+    }
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
